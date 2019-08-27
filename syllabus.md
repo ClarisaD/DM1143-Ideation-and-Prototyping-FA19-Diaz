@@ -1,6 +1,6 @@
 # Syllabus
 
-![](.gitbook/assets/NYU-Tandon.png)
+![](NYU-Tandon.png)
 
 #### Integrated Digital Media • Technology, Culture & Society Department
 
