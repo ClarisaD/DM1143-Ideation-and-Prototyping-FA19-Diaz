@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Welcome](README.md)
+* [Welcome to Ideation & Prototyping!](README.md)
 * [Syllabus](syllabus.md)
 * [Schedule Overview](week_1_detail.md)
 * [Week by Week Schedule](schedule)

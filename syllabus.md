@@ -15,14 +15,6 @@ Tuesdays & Thursdays • 8:30AM-10:20AM • 370J_308 • 3 credit hrs
 
 #### Course shared Google Drive folder, I&P Fall 2019: [https://drive.google.com/drive/folders/182UgQJKfTvw9u-FIM5FD30VcXXwr-eE_?usp=sharing](https://drive.google.com/drive/folders/182UgQJKfTvw9u-FIM5FD30VcXXwr-eE_?usp=sharing)
 
-"I have no special talents. I am only passionately curious."   
- ~Albert Einstein
-
-## Welcome to Ideation & Prototyping!
-
-In this class, the creative process will be investigated in order to generate ideas for art, design, technology, and business endeavors. The course will show how ideation, design research & thinking, and prototyping can inspire, inform, and bring depth to what one ultimately creates. Students will expand their arsenal of design research skills, learn how to think critically about their audience, content, form, and processes, as well as, understand the importance of utilizing more than one research and design strategy.
-
-Prerequisite: None
 
 ### PROGRAM GOALS
 
