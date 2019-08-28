@@ -180,6 +180,7 @@ All work for this class must be your own and specific to this semester. Any work
 
 If you are student with a disability who is requesting accommodations, please contact New York University’s Moses Center for Students with Disabilities at 212-998-4980 or mosescsd@nyu.edu. You must be registered with CSD to receive accommodations. Information about the Moses Center can be found at www.nyu.edu/csd. The Moses Center is located at 726 Broadway on the 2nd floor.
 
+
 ### REQUIRED SUPPLIES
 
 * A Notebook or Sketchbook \(Analog or Digital \(i.e. Evernote, Paper by FiftyThree, etc.\)\)
