@@ -8,4 +8,4 @@ In this class, the creative process will be investigated in order to generate id
 
 Prerequisite: None
 
-Integrated Digital Media Program - NYU Tandon School of Engineering
+(https://media.giphy.com/media/tHufwMDTUi20E/source.gif)
