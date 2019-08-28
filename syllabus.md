@@ -143,8 +143,8 @@ Students will conduct self assessments as well as be evaluated by the professor 
 * 10% [Notebook or Sketchbook](assignments/notebook-or-sketchbook.md)
 * 12% [Constant Input or Output Choices](assignments/constant-input-or-output.md)
 * 14% [Process Blog](assignments/process-blog.md)
-* 20% [Future Dystopia / Utopia Project](projects/future-dystopia-utopia-project.md)
-* 31% [Creative Process Annotated Bibliography & Video Documentary](projects/creative-process-annotated-bibliography-and-video-documentary.md)
+* 31% [Future Dystopia / Utopia Project](projects/future-dystopia-utopia-project.md)
+* 20% [Creative Process Annotated Bibliography & Video Documentary](projects/creative-process-annotated-bibliography-and-video-documentary.md)
 
 **Qualitative Grading Overview**
 
