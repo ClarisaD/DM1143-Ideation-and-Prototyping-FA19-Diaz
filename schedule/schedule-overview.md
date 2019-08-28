@@ -10,7 +10,7 @@ Gitbook is the official source for all dates and assignments; the syllabus is NO
 
 _Gitbook is a living, dynamic source. If there are any changes to the schedule in the syllabus, I will note these changes on gitbook AND in person during class._
 
-OPTIONAL: **Get Training at **[**Tandon's MakerSpace.**](https://wp.nyu.edu/makerspace/training-calendar/)
+OPTIONAL: **Get Training at **[**Tandon's MakerSpace.**](http://makerspace.engineering.nyu.edu/design-lab-calendar/)
 | wk | Tuesdays \(Due on Date Listed\) | Thursdays \(Due on Date Listed\) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 1 | Sep 3 [Course and Student Introductions Overview of Course, Ways of Seeing](week-1-detail-sep-04.md) | Sep 5 [Personal Inventories, Design Research Methodologies](week-1-detail-sep-04.md) |

@@ -10,11 +10,11 @@ Gitbook is the official source for all dates and assignments; the syllabus is NO
 
 _Gitbook is a living, dynamic source. If there are any changes to the schedule in the syllabus, I will note these changes on gitbook AND in person during class._
 
-OPTIONAL: **Get Training at **[**Tandon's MakerSpace.**](https://wp.nyu.edu/makerspace/training-calendar/)
+OPTIONAL: **Get Training at **[**Tandon's MakerSpace.**](http://makerspace.engineering.nyu.edu/design-lab-calendar/)
 | wk | Tuesdays \(Due on Date Listed\) | Thursdays \(Due on Date Listed\) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 1 | Sep 4 [Course and Student Introductions Overview of Course, Ways of Seeing](week-1-detail-sep-04.md) | Sep 6 [Personal Inventories, Design Research Methodologies](week-1-detail-sep-04.md) |
-| 2 | Sept 11 [NO CLASS - Influences and Interests Collage. \(if applicable\) constant input or output, Classmate Discoveries](week-2-detail-sep-11.md) | Sep 13 [NO CLASS - Classmate Discoveries](week-2-detail-sep-11.md) |
+| 2 | Sept 11 [Influences and Interests Collage. \(if applicable\) constant input or output, Classmate Discoveries](week-2-detail-sep-11.md) | Sep 13 [NO CLASS - Classmate Discoveries](week-2-detail-sep-11.md) |
 |  | Mon Sep 17 Last day to drop Fall 2019 classes and not receive a grade of "W". Refer to the [NYU academic calendar](https://www.nyu.edu/registrar/calendars/university-academic-calendar.html#1198) |
 | 3 | Sep 18 [Everything is a Remix, Share Influences and Interests Collage and Classmate Discoveries. \(if applicable\) constant input or output](week-3-detail-sep-18.md) | Sep 20 [Remix Artists Brainstorm Creators](week-3-detail-sep-18.md) |
 | 4 | Sep 25 Creative Process Annotated Bibliography and Video Documentary: [Discuss Creative Process Select Creator and Form Midterm Teams](week-4-detail-sep-25.md) | Sep 27 Creative Process Annotated Bibliography and Video Documentary: [Create Individual Annotated Bibliography Draft Create Individual Mood Board Draft Create Individual Image or Text Storyboard Draft. \(if applicable\) constant input or output](week-4-detail-sep-25.md) |
