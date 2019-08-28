@@ -7,4 +7,4 @@
 | wk | Tuesdays \(due on date listed\) | Thursdays \(due on date listed\) |
 | --- | --- | --- | --- | --- | --- |
 | **14** | **Dec 3** | **Dec 5** |
-| **class** | Work Session. Future Dystopia / Utopia Project: Iterate Lo-fi Prototype Delivery Medium Iterate Hi-fi Prototype Draft of Object |  Work Session. Future Dystopia / Utopia Project: Iterate Lo-fi Prototype Delivery Medium Iterate Hi-fi Prototype Draft of Object |
+| **class** | Work Session. Future Dystopia / Utopia Project: Iterate Hi-fi Prototype Delivery Medium Iterate Hi-fi Prototype Draft of Object |  Work Session. Future Dystopia / Utopia Project: Iterate Hi-fi Prototype Delivery Medium Iterate Hi-fi Prototype Draft of Object |

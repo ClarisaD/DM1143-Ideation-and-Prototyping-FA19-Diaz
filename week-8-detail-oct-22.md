@@ -7,6 +7,6 @@
 | wk | Tuesdays \(due on date listed\) | Thursdays \(due on date listed\) |
 | --- | --- | --- | --- |
 | **8** | **Oct 22** | **Oct 24** |
-| **class** | Discuss Hybrid Animatic / Video Drafts - Class Presentation |  Discuss Hybrid Animatic / Video Drafts - One on Ones |
-| **create \(post on your process blog\)** |  \(if applicable this week\), your [constant input assignment](constant-input-or-output.md)   [Creative Process Annotated Bibliography and Video Documentary](../projects/creative-process-annotated-bibliography-and-video-documentary.md)  Iterate Hybrid Animatic / Video Draft | Iterate Hybrid Animatic / Video Draft  | [Creative Process Annotated Bibliography and Video Documentary](creative-process-annotated-bibliography-and-video-documentary.md)  | 
+| **class** | **Midterm Project & Annoted Bibliography DUE, Midterm self-evaulation DUE - Class Presentations** |  Discuss Future Dystopia / Utopia Project Brainstorming, Framing Story, Brainstorm Message, Discuss Love Letter or Breakup Letter |
+| **create \(post on your process blog\)** |  \(if applicable this week\), your [constant input assignment](constant-input-or-output.md)   [Future Dystopia / Utopia Project](future-dystopia-utopia-project.md) [Love Letter or Breakup Letter](week-10-detail-nov-06.md) Annotated Bibliography Iterate Framing Story Iterate Message. \(if applicable\) constant input or output
 
