@@ -18,14 +18,15 @@
 * [Week 13: November 26](week-13-detail-nov-26.md)
 * [Week 14: December 3](week-14-detail-dec-03.md)
 * [Week 13: December 10](week-15-detail-dec-10.md)
-
-
-
-
-
-
-* [Projects](projects)
-* [Assignments](assignments)
+* [Constant Input or Constant Output](constant-input-or-output.md)
+* [Sketchbook](notebook-or-sketchbook.md)
+* [Process Blog](process-blog.md)
+* [Midterm Project: Creative Process Animatic or Film](creative-process-annotated-bibliography-and-video-documentary.md)
+* [Final Project: Future Utopia or Dystopia](future-dystopia-utopia-project.md)
+* [Personal Inventory](personal-inventory.md)
+* [Classmate Discovery](classmate-discovery.md)
+* [Love Letter or Breakup Letter](love-letter-or-breakup-letter.md)
+* [Self-Assessments](self-assessments.md)
 * [Recommended Resources](recommended-resources.md)
 * [Blog and Printed Assignment Guidelines](printed-assignment-guidelines.md)
 * [Deliverables](deliverables.md)
