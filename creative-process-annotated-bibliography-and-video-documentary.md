@@ -12,16 +12,7 @@ Choose a creator that you think has an interesting process. This person should h
 
 Student | Creator
 --- | --- 
-Joel &amp; Yuening | Wes Anderson
-Ibtida &amp; Marco | Marina Abramovic
-Loki &amp; Jessica | Hayao Miyazaki
-Vida &amp; Tejah | Damien Hirst 
-Al &amp; Behnam | Abbas Kiarostami
-Darshana &amp; Tina | Tim Burton
-Rebecca &amp; Oliwia | Pendleton Ward
-Michael | Banksy
-Halenur &amp; Shipon | Kanye West
-Blake | Stanley Kubrick
+
 
 
 Possible Choices \(but not limited to\):
