@@ -54,5 +54,5 @@ Emily Tran: <a href="">https://proto-mations.blogspot.com</a>
 
 Aaisha Al Jabri: <a href="">Blog</a>
 
-Francesca Sanders: <a href="">Blog</a>
+Francesca Sanders: <a href="https://www.tumblr.com/blog/francescasideation">https://www.tumblr.com/blog/francescasideation</a>
 
