@@ -4,6 +4,16 @@
 
 ## Recommended Resources
 
+* [The Creative Spiral](https://austinkleon.com/2018/02/26/the-lifelong-creative-learning-spiral/) Austin Kleon
+
+* [Ten Tips for Cultivating Creativity](https://medium.com/@mres/ten-tips-for-cultivating-creativity-fe79e7ebb83e) Mitchell Resnick, which is based on his book
+
+* [Lifelong Kindergarten: Cultivating Creativity through Projects, Passion, Peers, and Play](https://www.amazon.com/exec/obidos/ASIN/0262037297/wwwaustinkleo-20/ref=nosim/) Mitchell Resnick 
+
+* [The Art of Tinkering](https://www.amazon.com/gp/product/1616286091/ref=ox_sc_mini_detail?ie=UTF8&psc=1&smid=ATVPDKIKX0DER) by Karen Wilkinson and Mike Petrich
+
+
+
 **Recommended Audio Podcasts**
 
 * [Revision Path](https://itunes.apple.com/us/podcast/revision-path/id834173190?mt=2) Maurice Cherry interviews designers, developers, and other creators of color weekly.
