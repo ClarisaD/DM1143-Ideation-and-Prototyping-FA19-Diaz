@@ -12,6 +12,11 @@ Choose a creator that you think has an interesting process. This person should h
 
 Student | Creator
 --- | --- 
+Sandy & Esther | Hayao Miyazaki 
+Alisha & Bridget | Armin Hofmann
+Chloe & Francesca | Tim Burton 
+Kaitlyn & Ari | Charlie Chapman
+MJ & Lenay | David Lynch
 
 
 
