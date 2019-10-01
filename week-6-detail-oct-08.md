@@ -7,6 +7,6 @@
 | wk | Tuesdays \(due on date listed\) | Thursdays \(due on date listed\) |
 | --- | --- | --- | --- |
 | **6** | **Oct 8** | **Oct 10** |
-| **class** | Guest Lecture on Visualization and Storytelling |  Discuss [Sculpting Freddie Mercury](https://www.youtube.com/watch?v=L_vQW3xQEhc) Discuss Hybrid Animatic / Video Drafts from revised storyboards/moodboards. |
-| **create \(post on your process blog\)** |  \(if applicable this week\), your [constant input assignment.](constant-input-or-output.md) [Begin planning for creating Hybrid Animatic/Video Draft](../projects/creative-process-annotated-bibliography-and-video-documentary.md). | Create Hybrid Animatic / Video Draft [Creative Process Annotated Bibliography and Video Documentary](creative-process-annotated-bibliography-and-video-documentary.md) |  
+| **class** | Translate revised storyboard into video or animation - work session Discuss Hybrid Animatic / Video Drafts from revised storyboards/moodboards.|  Class Presentations of Video/Animation draft - revise based on feedback. Guest lecture on film |
+| **create \(post on your process blog\)** |  \(if applicable this week\), your [constant input assignment.](constant-input-or-output.md) [Create Hybrid Animatic/Video Draft](../projects/creative-process-annotated-bibliography-and-video-documentary.md). | Revise Hybrid Animatic / Video Draft[Creative Process Annotated Bibliography and Video Documentary](creative-process-annotated-bibliography-and-video-documentary.md) |  
 
