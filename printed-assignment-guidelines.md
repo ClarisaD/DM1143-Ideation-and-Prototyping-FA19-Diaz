@@ -52,7 +52,7 @@ Sarah Gao: <a href="https://xiaoya-gao.tumblr.com/">https://xiaoya-gao.tumblr.co
 
 Emily Tran: <a href="">https://proto-mations.blogspot.com</a>
 
-Aaisha Al Jabri: <a href="">Blog</a>
+Aaisha Al Jabri: <a href="https://aaj427.tumblr.com"></a>
 
 Francesca Sanders: <a href="https://www.tumblr.com/blog/francescasideation">https://www.tumblr.com/blog/francescasideation</a>
 

@@ -15,8 +15,12 @@ Student | Creator
 Sandy & Esther | Hayao Miyazaki 
 Alisha & Bridget | Armin Hofmann
 Chloe & Francesca | Tim Burton 
-Kaitlyn & Ari | Charlie Chapman
+Kaitlyn & Ari | Charlie Chaplin
 MJ & Lenay | David Lynch
+Martin & Arnie | Steve Jobs 
+Eureka & Aaisha | Jackson Pollack 
+Aisha & Sarah | Ai Wei Wei
+Lara & Emily | Felix Gonzalez-Torres 
 
 
 
