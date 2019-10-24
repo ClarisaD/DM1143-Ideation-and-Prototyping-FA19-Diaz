@@ -7,4 +7,4 @@
 | wk | Tuesdays \(due on date listed\) | Thursdays \(due on date listed\) |
 | --- | --- | --- | --- | --- | --- |
 | **15** | **Dec 10** | **Dec 12** |
-| **class** |  Work Session. Future Dystopia / Utopia Project: Iterate Hi-fi Prototype Delivery Medium Iterate Hi-fi Prototype Draft of Object |  **Future Dystopia/Utopia Project, Annotated Bibliography DUE, Final Self-Assessment DUE ** Final In Class Presentations |
+| **class** |  Available for one-on-ones via video chat |  Available for one-on-ones via video chat |
