@@ -29,7 +29,7 @@ OPTIONAL: **Get Training at **[**Tandon's MakerSpace.**](http://makerspace.engin
 | 11 | Nov 12 Future Dystopia / Utopia Project: [Storyboard Draft of Delivery Medium \(OPTIONAL\) Lo-fi Prototype Draft of Delivery Medium Lo-fi Physical Prototype Draft of Object or Experience. \(if applicable\) constant input or output](week-12-detail-nov-20.md)  | Nov 14 Future Dystopia / Utopia Project: [Iterate Storyboard Draft of Delivery Medium \(OPTIONAL\) Hi-fi Prototype Draft of Delivery Medium Iterate Lo-fi Physical Prototype Draft of Object or Experience. \(if applicable\) constant input or output](week-13-detail-nov-27.md)|
 | 12 | Nov 19 Future Dystopia / Utopia Project: [Iterate Storyboard Draft of Delivery Medium \(OPTIONAL\) Hi-fi Prototype Draft of Delivery Medium Iterate Lo-fi Physical Prototype Draft of Object or Experience. \(if applicable\) constant input or output](week-13-detail-nov-27.md) | Nov 21 **Class Presentations of Final Project Progress - use feedback for finalizing work**|
 | 13 | Nov 27 NO CLASS: Thanksgiving Holiday  | Nov 29 NO CLASS: Thanksgiving Holiday |
-| 14 | Dec 3 Future Dystopia / Utopia Project: Final touches on Hi-fi Prototype Delivery Medium Iterate Hi-fi Prototype Draft of Object | **Dec 5 Future Dystopia / Utopia Project: Final touches on Hi-fi Prototype Delivery Medium Iterate Hi-fi Prototype Draft of Object |
+| 14 | Dec 3 Future Dystopia / Utopia Project: Final touches on Hi-fi Prototype Delivery Medium Iterate Hi-fi Prototype Draft of Object | **Dec 5 Future Dystopia / Utopia Project, Annotated Bibliography DUE** |
 | 15 | Dec 10 Available for one-on-ones via video chat| Dec 13 Available for one-on-ones via video chat |
 
 
