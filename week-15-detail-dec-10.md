@@ -7,4 +7,4 @@
 | wk | Tuesdays \(due on date listed\) | Thursdays \(due on date listed\) |
 | --- | --- | --- | --- | --- | --- |
 | **15** | **Dec 10** | **Dec 12** |
-| **class**   Available for one-on-ones via video chat |  Available for one-on-ones via video chat |
+| **class**   Available for one-on-ones to discuss final grades |  Available for one-on-ones to discuss final grades |
