@@ -7,5 +7,5 @@
 | wk | Tuesdays \(due on date listed\) | Thursdays \(due on date listed\) |
 | --- | --- | --- | --- |
 | **13** | **Nov 26** | **Nov 28** |
-| **class** | **Work Session** Refine Hi-fi Prototype(s), Finalize Message, Finish Annotated Bibliography, | **NO CLASS - THANKSGIVING BREAK** |
+| **class** | **Work Session** Refine Hi-fi Prototype(s), Finalize Message, Finish Annotated Bibliography, Letter to the next cohert | **NO CLASS - THANKSGIVING BREAK** |
 | 
