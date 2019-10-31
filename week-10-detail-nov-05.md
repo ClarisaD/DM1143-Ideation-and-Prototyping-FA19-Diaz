@@ -4,7 +4,7 @@
 
 ## [Schedule:](./) Week 10
 
-| wk | Tuesdays \(due on date listed\) | Thursdays \(due on date listed\) |
+| wk | Monday | Tuesdays \(due on date listed\) | Thursdays \(due on date listed\) |
 | --- | --- | --- | --- |
 | **10** | **Nov 4** | **Nov 5** | **Nov 7** |
 | **class** | **Additional Session** 6PM-7:40PM Room 344 | **Class Presentations of Message, Evolution Timeline, and 3 Mediums of Expression-Group A** | **Class Presentations of Message, Evolution Timeline, and 3 Mediums of Expression-Group B** |  |
