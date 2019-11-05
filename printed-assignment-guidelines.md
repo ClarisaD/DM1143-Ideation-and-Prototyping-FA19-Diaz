@@ -30,7 +30,7 @@ Lara Ferreri: <a href="https://www.tumblr.com/blog/larabferreri">https://www.tum
 
 Arnie Forte: <a href="https://www.tumblr.com/blog/djarnieforte">https://www.tumblr.com/blog/djarnieforte</a>
 
-Kaitlyn Heard: <a href="">https://soundsofnewyork.tumblr.com/</a>
+Kaitlyn Heard: <a href="https://soundsofnewyork.tumblr.com/">https://soundsofnewyork.tumblr.com/</a>
 
 Ari Herwin: <a href="https://irahatam.tumblr.com">https://irahatam.tumblr.comg</a>
 
@@ -50,7 +50,7 @@ Ashia White: <a href="https://www.tumblr.com/blog/blackroseandcoffee">https://ww
 
 Sarah Gao: <a href="https://xiaoya-gao.tumblr.com/">https://xiaoya-gao.tumblr.com/</a>
 
-Emily Tran: <a href="">https://proto-mations.blogspot.com</a>
+Emily Tran: <a href="https://proto-mations.blogspot.com">https://proto-mations.blogspot.com</a>
 
 Aaisha Al Jabri: <a href="https://aaj427.tumblr.com">https://aaj427.tumblr.com</a>
 
