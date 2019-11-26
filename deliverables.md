@@ -5,8 +5,10 @@
 # END OF SEMESTER DELIVERABLES
 
 <ol>
-<li>Future Dystopia Utopia Documentation</li>
-<li>Creative Process Annotated Bibliography & Video Documentary</li>
+
+<li>Final Project Documentation of Process on Blog</li>
+<li>Final Project Hi-Fi Prototype(s)</li>
+<li>Final Project Annotated Bibliography</li>
 <li>Final Self Assessment</li>
 <li>Letter To Next Cohort</li>
 </ol>
@@ -15,9 +17,9 @@
 
 with the following files and 
 <ul>
-<li>Future Dystopia Utopia Documentation</li>
-<li>Creative Process Annotated Bibliography</li>
-<li>Final Self Assessment as pdf</li>
+<li>Future Dystopia Utopia Hi-Fi Prototype(s)(JPG images/photos/video of them)</li>
+<li>Final Project Annotated Bibliography (pdf) </li>
+<li>Final Self Assessment (pdf)</li>
 <li>Letter To Next Cohort (pdf)</li>
 </ul>
 
@@ -25,9 +27,8 @@ with the following files and
 ## Final Self Assessment
 *Include in Google Drive folder, I&P Fall 2019*
 
-Emailed to Clarisa.
 
 ## Letter to Next Cohort
 *Include in Google Drive folder, I&P Fall 2019*
 
-Write a letter to the next class or create a 1-2 minute video, giving them advice on how to reach their learning goals and get value out of this course.
+Write a letter to the next class giving them advice on how to reach their learning goals and get value out of this course.
